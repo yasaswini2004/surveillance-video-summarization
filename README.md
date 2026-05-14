@@ -274,7 +274,7 @@ Vijayawada, Andhra Pradesh, India
 
 # Mentor
 
-##$ Dr. Ashutosh Satapathy
+### Dr. Ashutosh Satapathy
 
 Assistant Professor (Selection Grade), Dept. of CSE  
 Siddhartha Academy of Higher Education (Deemed to be University)  
