@@ -156,12 +156,12 @@ to generate complete scene-level summaries for unseen surveillance videos.
 
 # GUI Testing Results
 
-
+<p align="center">
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f86adc89-7786-4eb4-b18b-ab1be23b7de4" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2297a883-4a33-429a-b1ab-1ecd94e615d6" />
 
-
+</p>
 
 ---
 
