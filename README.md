@@ -263,6 +263,11 @@ pip install -r requirements.txt
 - Siddhartha Academy of Higher Education
 
 ---
+## Related Publication
+
+- 📄 IEEE Paper: [Read the Article](https://ieeexplore.ieee.org/document/11497200/)
+  
+---
 
 # Author
 
