@@ -266,6 +266,14 @@ pip install -r requirements.txt
 ## Related Publication
 
 - 📄 IEEE Paper: [Read the Article](https://ieeexplore.ieee.org/document/11497200/)
+
+### Citation
+
+If you use this work, please cite:
+
+Venuturumilli, Y., Satapathy, A., & Chandran, M. (2026, March).  
+**A Visual-Language Agent for Summarizing Surveillance Footage Using Vision Transformers and Agentic LLM.**  
+In *2026 IEEE International Conference on AI Engineering and Innovations (AIEI)* (pp. 1–7). IEEE.
   
 ---
 
