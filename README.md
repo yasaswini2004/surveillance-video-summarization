@@ -269,15 +269,13 @@ pip install -r requirements.txt
 ## Yasaswini Venuturumilli
 
 AI & DS - B.Tech  
-Siddhartha Academy of Higher Education  
+Siddhartha Academy of Higher Education (Deemed to be University) 
 Vijayawada, Andhra Pradesh, India
 
 # Mentor
 
 ## Dr. Ashutosh Satapathy
 
-Assistant Professor (Selection Grade) 
-
-Dept. of CSE, Siddhartha Academy of Higher Education 
-
+Assistant Professor (Selection Grade), Dept. of CSE
+Siddhartha Academy of Higher Education (Deemed to be University)
 Vijayawada, Andhra Pradesh, India
